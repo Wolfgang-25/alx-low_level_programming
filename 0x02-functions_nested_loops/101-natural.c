@@ -16,6 +16,6 @@ int main(void)
 	}
 	i++;
 	}
-	printf("%d\n", 2);
+	printf("%d\n", z);
 	return (0);
 }
